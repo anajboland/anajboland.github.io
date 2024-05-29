@@ -52,20 +52,9 @@ Se configura alrededor del dormitorio de Van Gogh en Arles, su lugar más íntim
 En concreto, en esta versión se dispone de un suelo juego: un puzzle del famoso cuadro de Los Girasoles (para acceder al puzzle debe entrar en la puerta de la tercera versión de "La chambre d'Arles"). Además, se puede encontrar una carta dirigida a Teo (hermano de Van Gogh) escrita por el propio artista, en la que habla un poco de este lugar. 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+https://github.com/anajboland/anajboland.github.io/blob/main/Ilustracio%CC%81n_sin_ti%CC%81tulo.jpg?raw=true 
 
 
 # 3. Metodología
