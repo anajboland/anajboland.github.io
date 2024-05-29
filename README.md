@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : MI Proyecto (Van Gone)
 
-**Web:**   https://    (url github.io)
+**Web:**   https://    (anajboland.github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Ana María Jiménez Boland)
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Aprende sobre Van Gogh interactuando con sus obras 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Documental
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
