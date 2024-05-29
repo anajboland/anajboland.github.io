@@ -42,8 +42,6 @@ https://github.com/anajboland/anajboland.github.io/blob/main/Autorretrato%20port
 
 ### 2.1 Storyboard: 
 
-
-
 Este trabajo es una versión reducida de un proyecto multimedia interactivo creado con el fin de hacer accesible el conocimiento sobre uno de los artistas más relevantes y conocidos de la historia del arte: Van Gogh. 
 El juego te invita a navegar entre sus cuadros, acercándote de manera personal, profunda y agradable a la obra del artista. 
 
@@ -59,78 +57,36 @@ https://github.com/anajboland/anajboland.github.io/blob/main/Ilustracio%CC%81n_s
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
-
-### Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+El programa utilizado para el proyecto es: Hippani. 
+Para cerar dibujos o editar fotografías: Procreate y Photoshop. 
+Para edición de audio: Sony Vegas. 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este proyecto es interesante porque, a gran esacala, permitiría a personas de todas las edades acceder de manera fácil, divertida e interactiva a conocimientos sobre personajes relevantes que configuran el panorama artístico mundial. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a todas las edades. 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+- Video de Gema Vallido sobre el artista.
+- Menús y elementos de navegación (botones).
+  
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+El puzzle, no he conseguido que las "colisiones" funcionen correctamente, por lo que no están activadas en el resultado final. Me gustaría además poder implementado todos los juegos diseñados en el esquema inicial (cosa que me dejo como propósito para trabajo personal a modo de disfrute). 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
-
-**Herramientas utilizadas**
-
-- Hippani Animator 5.1
-- 
-
+* Musica: "Clair de Lune" - Debussy (https://www.youtube.com/watch?v=CvFH_6DNRCY) 
+* Imágenes: Obras de Vincent Van Gogh.
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
