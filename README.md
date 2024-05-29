@@ -44,6 +44,14 @@ https://github.com/anajboland/anajboland.github.io/blob/main/Autorretrato%20port
 
 
 
+Este trabajo es una versión reducida de un proyecto multimedia interactivo creado con el fin de hacer accesible el conocimiento sobre uno de los artistas más relevantes y conocidos de la historia del arte: Van Gogh. 
+El juego te invita a navegar entre sus cuadros, acercándote de manera personal, profunda y agradable a la obra del artista. 
+
+Se configura alrededor del dormitorio de Van Gogh en Arles, su lugar más íntimo. Él hizo tres versiones del mismo cuadro y alrededor de estas tres es que gira el resto del juego. Como música de ambiente, tenemos "Clair de Lune" de Calude Debussy, un músico que se plantea como impresionista/postimpresionista, perfecta para explorar tranquilamente y concentrarte en el aprendizaje y retos. 
+
+En concreto, en esta versión se dispone de un suelo juego: un puzzle del famoso cuadro de Los Girasoles (para acceder al puzzle debe entrar en la puerta de la tercera versión de "La chambre d'Arles"). Además, se puede encontrar una carta dirigida a Teo (hermano de Van Gogh) escrita por el propio artista, en la que habla un poco de este lugar. 
+
+
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
