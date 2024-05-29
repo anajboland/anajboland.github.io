@@ -9,36 +9,34 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (Van Gone)
+**Titulo** : MI Proyecto Van Gone
 
-**Web:**   https://    (anajboland.github.io)
+**Web:**   https://    anajboland.github.io
 
-**Autor:**  (Ana María Jiménez Boland)
+**Autor:**  Ana María Jiménez Boland
 
 **Resumen** : Aprende sobre Van Gogh interactuando con sus obras 
 
 **Estilo/género:**  Documental
 
-**Logotipo** : (https://github.com/anajboland/anajboland.github.io/blob/main/Autorretrato%20portada.jpeg?raw=true)
+**Logotipo** : https://github.com/anajboland/anajboland.github.io/blob/main/Autorretrato%20portada.jpeg?raw=true
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome, móviles android 
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 370MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/anajboland
+- Instagram: @segnorita_boland
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+https://github.com/anajboland/anajboland.github.io/blob/main/Autorretrato%20portada.jpeg?raw=true
 
 # 2. Memoria del proyecto 
 
